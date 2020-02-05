@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28803.452
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Flamastry", "Flamastry.csproj", "{67AA7EB6-4C0D-48D6-9526-B26292B1F609}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67AA7EB6-4C0D-48D6-9526-B26292B1F609}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67AA7EB6-4C0D-48D6-9526-B26292B1F609}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67AA7EB6-4C0D-48D6-9526-B26292B1F609}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67AA7EB6-4C0D-48D6-9526-B26292B1F609}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A5FB34AE-464C-445A-968D-F3E49E2BD9FE}
+	EndGlobalSection
+EndGlobal
